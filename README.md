@@ -1,4 +1,4 @@
-# Araliya Hotel Tailwind Starter
+# Cinnamon Hotel Management
 
 Run backend: `node server.js`
 Run frontend: `npm start` inside `frontend/`
